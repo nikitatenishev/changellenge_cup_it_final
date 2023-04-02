@@ -32,5 +32,6 @@ Python, catboost, lightgbm, xgboost, bert, hugging-face, scipy, pandas, numpy, m
 `models` <- сохранённые веса модели  
 `src` <- пай файлы, используемые в работе  
 `test_set.rar` (доступ по ссылке) <- тестовая выборка
+`O(n2)_presa.rar` <- презентация
 
 ---
