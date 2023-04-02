@@ -1,0 +1,8 @@
+profit_income_out_rur_amt_6m
+profit_income_out_rur_amt_3m
+profit_income_out_rur_amt_12m
+profit_income_out_rur_amt_9m
+avg_invest_inc
+avg_percents_inc
+total_inc
+avg_zp_inc

@@ -1,0 +1,9 @@
+accountsalary_flag
+country
+clientoutflowstatus
+stratsegfactor
+srvpackage
+clientsegment
+age
+gender
+life_time_days
