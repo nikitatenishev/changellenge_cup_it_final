@@ -18,7 +18,7 @@
 
 ---
 
-Python, catboost, lightgbm, xgboost, bert, hugging-face, scipy, pandas, numpy, matplotlib, seaborn, sklearn, imblearn, optuna, implicit, boruta
+Python, catboost, lightgbm, xgboost, bert, hugging-face, scipy, pandas, numpy, matplotlib, seaborn, sklearn, imblearn, optuna, implicit
 
 
 
