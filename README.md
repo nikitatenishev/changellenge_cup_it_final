@@ -24,7 +24,7 @@ Python, catboost, lightgbm, xgboost, bert, hugging-face, scipy, pandas, numpy, m
 
 ### Данные
 
-Данные находятся по ссылке: 
+Данные находятся по ссылке: https://drive.google.com/drive/folders/1pwZDBJ7FUdUCm3Dvc-RQK2jEN4asX-U4
 
 `auxiliary` <- дополнительные данные, которые использовались в ходе работы  
 `data` <- основные данные, а также данные, полученные в ходе работы  
